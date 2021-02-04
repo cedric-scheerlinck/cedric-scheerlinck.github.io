@@ -2,5 +2,6 @@
   author        = {Cedric Scheerlinck and Henri Rebecq and Timo Stoffregen and Nick Barnes and Robert Mahony and Davide Scaramuzza},
   title         = {{CED:} Color Event Camera Dataset},
   booktitle     = {{IEEE} Conf. Comput. Vis. Pattern Recog. Workshops {(CVPRW)}},
-  year          = {2019}
+  year          = {2019},
+  doi           = {10.1109/CVPRW.2019.00215}
 }

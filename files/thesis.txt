@@ -3,5 +3,5 @@
   title         = {How to See with an Event Camera},
   school        = {College of Engineering and Computer Science, The Australian National University},
   year          = {2021},
-  url		= {http://hdl.handle.net/1885/216784}
+  doi           = {10.25911/5JJS-N433}
 }
